@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\data\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:data\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WishlistService.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\WishlistService.cs",
+              "RelativeDocumentMoniker": "Data\\WishlistService.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\WishlistService.cs",
+              "RelativeToolTip": "Data\\WishlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:41:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:37:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:36:56.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:36:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "Models\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Wishlist.cs",
+              "RelativeToolTip": "Models\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:36:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "Data\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
+              "RelativeToolTip": "Data\\ConexionSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:32:47.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
