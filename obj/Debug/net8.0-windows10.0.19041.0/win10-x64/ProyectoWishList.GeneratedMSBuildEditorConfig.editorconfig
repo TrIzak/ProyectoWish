@@ -28,12 +28,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/AppShell.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.AppShell.xaml
-build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
-build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
-
 [C:/Users/Isaac/source/repos/7mo/ProyectoWishList/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.MainPage.xaml
@@ -51,3 +45,39 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AppShell.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/CategoriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.CategoriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriesPage.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/ItemDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.ItemDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ItemDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ItemDetailPage.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/ItemsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.ItemsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ItemsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ItemsPage.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/StoresPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.StoresPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StoresPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StoresPage.xaml
+
+[C:/Users/Isaac/source/repos/7mo/ProyectoWishList/Views/WishlistPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoWishList.Views.WishlistPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\WishlistPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\WishlistPage.xaml

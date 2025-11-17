@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoWishList.Views.ItemDetailPage"
+             Title="Agregar Articulo">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="10" Padding="20">
+
+            <Label Text="Pegar Link (Opcional)" />
+            <Entry x:Name="txtProductURL" Placeholder="https://..." />
+
+            <Button x:Name="btnPegarYAnalizar" Text="Pegar y Analizar Link" Clicked="btnPegarYAnalizar_Clicked" />
+
+            <BoxView HeightRequest="1" Color="LightGray" />
+
+            <Label Text="Nombre del Artículo *" />
+            <Entry x:Name="txtItemName" Placeholder="Ej. Audífonos Sony" />
+
+            <Label Text="Precio (Opcional)" />
+            <Entry x:Name="txtPrice" Placeholder="1500.00" Keyboard="Numeric" />
+
+            <Label Text="Tienda (Opcional)" />
+            <Picker x:Name="pickerStore" Title="Selecciona una tienda" />
+
+            <Label Text="URL de Imagen (Opcional)" />
+            <Entry x:Name="txtImageURL" Placeholder="http://.../imagen.png" />
+
+            <Label Text="Prioridad" />
+            <Picker x:Name="pickerPriority" Title="Prioridad">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:Int32}">
+                        <x:Int32>1</x:Int32>
+                        <x:Int32>2</x:Int32>
+                        <x:Int32>3</x:Int32>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Button x:Name="btnGuardar" Text="Guardar Artículo" Clicked="btnGuardar_Clicked" Margin="0,20" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

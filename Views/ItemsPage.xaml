@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoWishList.Views.ItemsPage"
+             Title="ItemsPage">
+
+
+    <Grid RowDefinitions="Auto,*,Auto">
+
+        <Label x:Name="lblListaNombre" 
+               Grid.Row="0"
+               Text="Cargando..." 
+               FontSize="Large" 
+               FontAttributes="Bold" 
+               Padding="20,10"/>
+
+        <CollectionView x:Name="itemsView" Grid.Row="1" Margin="10,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:Item">
+                    <Frame Padding="10" Margin="5" BorderColor="LightGray">
+                        <Grid ColumnDefinitions="Auto,*,Auto,Auto" ColumnSpacing="10">
+                            <Image Grid.Column="0" 
+                                   Source="{Binding ImageURL, TargetNullValue='dotnet_bot.png'}" 
+                                   HeightRequest="60" WidthRequest="60" Aspect="AspectFill" />
+
+                            <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
+                                <Label Text="{Binding Name}" FontAttributes="Bold" />
+                                <Label Text="{Binding Price, StringFormat='${0:N2}'}" TextColor="Green" />
+                                <Label Text="{Binding StoreName}" FontSize="Micro" TextColor="Gray"/>
+                            </VerticalStackLayout>
+
+                            <Button Grid.Column="2" Text="Editar" CommandParameter="{Binding .}" Clicked="OnEditarItem" />
+                            <Button Grid.Column="3" Text="Borrar" CommandParameter="{Binding .}" Clicked="OnEliminarItem" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Grid.Row="2" 
+                Text="Agregar Nuevo Artículo" 
+                Clicked="btnAgregarItem_Clicked" 
+                Margin="20" />
+    </Grid>
+    
+</ContentPage>

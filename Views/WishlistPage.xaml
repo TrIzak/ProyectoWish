@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ProyectoWishList.Models"
+             x:Class="ProyectoWishList.Views.WishlistPage"
+             Title="Mis listas">
+
+    <VerticalStackLayout Spacing="10" Padding="20">
+
+        <Frame Padding="10">
+            <VerticalStackLayout Spacing="5">
+                <Label Text="Nueva Lista" FontAttributes="Bold" FontSize="Medium"/>
+                <Entry x:Name="txtWishlistName" Placeholder="Nombre (Ej. Gadgets)"/>
+                <Entry x:Name="txtWishlistDesc" Placeholder="Descripción (Opcional)"/>
+                <Button x:Name="btnGuardarWishlist" Text="Guardar Lista" Clicked="btnGuardarWishlist_Clicked" />
+            </VerticalStackLayout>
+        </Frame>
+
+        <BoxView HeightRequest="1" Color="Gray" />
+
+        <CollectionView x:Name="wishlistsView" SelectionMode="Single" SelectionChanged="wishlistsView_SelectionChanged">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:Wishlist">
+                    <Frame Padding="15" Margin="0,5" BorderColor="LightGray">
+                        <Grid ColumnDefinitions="*,Auto,Auto">
+                            <VerticalStackLayout Grid.Column="0">
+                                <Label Text="{Binding Name}" FontSize="Subtitle" FontAttributes="Bold"/>
+                                <Label Text="{Binding Description}" FontSize="Caption" TextColor="Gray"/>
+                            </VerticalStackLayout>
+                            <Button Grid.Column="1" Text="Editar" CommandParameter="{Binding .}" Clicked="OnEditarWishlist" />
+                            <Button Grid.Column="2" Text="Eliminar" CommandParameter="{Binding .}" Clicked="OnEliminarWishlist" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+
+
+</ContentPage>

@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\itemdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\itemdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\itemdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\itemdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\itemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\itemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\data\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:data\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:data\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\itemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\itemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\storespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\storespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\storespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\storespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\wishlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\wishlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\views\\wishlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|solutionrelative:views\\wishlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7012B947-CD59-4ADF-9B67-AB8A32B8C0A3}|ProyectoWishList.csproj|c:\\users\\isaac\\source\\repos\\7mo\\proyectowishlist\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +98,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ItemDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemDetailPage.xaml.cs",
+              "RelativeToolTip": "Views\\ItemDetailPage.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:25:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ItemDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemDetailPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ItemDetailPage.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemDetailPage.xaml",
+              "RelativeToolTip": "Views\\ItemDetailPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T22:18:15.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ItemsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemsPage.xaml.cs",
+              "RelativeToolTip": "Views\\ItemsPage.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:14:04.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ItemsPage.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "Views\\ItemsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T22:13:20.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\CategoriesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CategoriesPage.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\CategoriesPage.xaml",
+              "RelativeToolTip": "Views\\CategoriesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T22:12:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WishlistService.cs",
               "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\WishlistService.cs",
               "RelativeDocumentMoniker": "Data\\WishlistService.cs",
@@ -67,7 +176,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "Data\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
+              "RelativeToolTip": "Data\\ConexionSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:32:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoresPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\StoresPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StoresPage.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\StoresPage.xaml",
+              "RelativeToolTip": "Views\\StoresPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T22:04:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoresPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\StoresPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StoresPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\StoresPage.xaml.cs",
+              "RelativeToolTip": "Views\\StoresPage.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:07:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WishlistPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\WishlistPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\WishlistPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\WishlistPage.xaml.cs",
+              "RelativeToolTip": "Views\\WishlistPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:01:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WishlistPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\WishlistPage.xaml",
+              "RelativeDocumentMoniker": "Views\\WishlistPage.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\WishlistPage.xaml",
+              "RelativeToolTip": "Views\\WishlistPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T21:58:50.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\AppShell.xaml.cs",
+              "RelativeToolTip": "Views\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:53:01.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Views\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Views\\AppShell.xaml",
+              "RelativeToolTip": "Views\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T21:52:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -75,12 +275,11 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:37:10.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T20:37:10.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Store.cs",
               "RelativeDocumentMoniker": "Models\\Store.cs",
@@ -88,12 +287,11 @@
               "RelativeToolTip": "Models\\Store.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:36:56.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T20:36:56.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Models\\Item.cs",
@@ -101,12 +299,11 @@
               "RelativeToolTip": "Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:36:35.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T20:36:35.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Wishlist.cs",
               "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Models\\Wishlist.cs",
               "RelativeDocumentMoniker": "Models\\Wishlist.cs",
@@ -114,21 +311,7 @@
               "RelativeToolTip": "Models\\Wishlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:36:15.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConexionSQL.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
-              "RelativeDocumentMoniker": "Data\\ConexionSQL.cs",
-              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\7mo\\ProyectoWishList\\Data\\ConexionSQL.cs",
-              "RelativeToolTip": "Data\\ConexionSQL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:32:47.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T20:36:15.625Z"
             }
           ]
         },
